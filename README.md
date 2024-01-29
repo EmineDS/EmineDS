@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Emine</h1>
+<h1 align="center">Hi 👋, I'm Emine Edis</h1>
 <h3 align="center">A beginner data scientist from Türkiye</h3>
 
 ### Blogs posts
